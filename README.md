@@ -1,4 +1,4 @@
-# NeuronSimple
+# neuron machine learning
 
 To compile the project, run the following in the bash terminal:
 
